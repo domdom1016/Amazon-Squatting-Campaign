@@ -19,7 +19,7 @@
             "objects": {
                 "0": {
                     "type": "ipv4-addr",
-                    "value": "45.146.164.110"
+                    "value": "45.83.65.162"
                 },
                 "1": {
                     "type": "x-oca-event",
@@ -76,8 +76,8 @@
                     "value": "verification-amazon-secure.com"
                 }
             },
-            "first_observed": "2022-06-19T09:51:53.333Z",
-            "last_observed": "2022-07-22T11:51:53.333Z",
+            "first_observed": "2022-10-18T09:51:53.333Z",
+            "last_observed": "2022-10-18T11:51:53.333Z",
             "number_observed": 1
         },
         {
